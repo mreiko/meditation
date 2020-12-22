@@ -37,7 +37,7 @@ Additionally, you may choose to set the following optional variables:
 
 ```yml
 show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: UA-185790271-1
+google_analytics: G-YN0D76CTVN
 ```
 
 ### Stylesheet
