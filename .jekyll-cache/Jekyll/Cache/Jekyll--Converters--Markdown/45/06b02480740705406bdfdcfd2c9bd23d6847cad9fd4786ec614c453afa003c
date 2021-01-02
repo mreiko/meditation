@@ -1,61 +1,11 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-
-    
-
-    <script data-ad-client="ca-pub-6965344176547174" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-
-
-
-    
-    <meta charset="UTF-8">
-
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Introduction to Meditation | Everything you need, you already have.</title>
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Introduction to Meditation" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Everything you need, you already have." />
-<meta property="og:description" content="Everything you need, you already have." />
-<meta property="og:site_name" content="Introduction to Meditation" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Introduction to Meditation" />
-<script type="application/ld+json">
-{"headline":"Introduction to Meditation","description":"Everything you need, you already have.","url":"/index2.html","@type":"WebPage","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    <header class="page-header" role="banner">
-      <h1 class="project-name">Introduction to Meditation</h1>
-      <h2 class="project-tagline">Everything you need, you already have.</h2>
-<!--  
-
-      
-        <a href="" class="btn">Download .zip</a>
-        <a href="" class="btn">Download .tar.gz</a>
--->
-      
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      <p>Are you interested in meditation but confused about which type is right for you?</p>
+I"#<p>Are you interested in meditation but confused about which type is right for you?</p>
 
 <p>Starting a meditation practice doesn’t require anything you don’t have right now. Your meditation practice doesn’t have to conflict with your current beliefs, it  doesn’t require an hour per day to be meaningful, nor does it require a special mindset or super-human discipline.</p>
 
 <p>Everything you need to start a meditation practice you already have.</p>
 
-<h1 id="ready-to-start">Ready to start?</h1>
-
-<h2 id="steps-to-start-meditating-now">Steps to start meditating now:</h2>
+<h2 id="ready-to-start">Ready to start?</h2>
+<h3 id="steps-to-start-meditating-now">Steps to start meditating now:</h3>
 <ol>
   <li>Sit or stand with your spine erect but relaxed.</li>
   <li>Inhale slowly and count from one to three to yourself. Exhale slowly, counting again.</li>
@@ -64,20 +14,36 @@
 
 <p>Now if anyone asks you if you’re ever meditated, you can respond with a resounding yes! Is it really that simple? Yes.</p>
 
+<hr />
+
 <h2 id="why-do-people-pay-to-meditate">Why Do People Pay to Meditate?</h2>
 <p>It’s not always a scam. It’s free to meditate, yes, but it’s no different than a personal trainer. You could find all that information online and build a DIY program. It’s the guidance and accountability that people pay for and meditation is no different.</p>
 
+<hr />
+
 <h2 id="tools-to-form-a-daily-habit">Tools to Form a Daily Habit</h2>
 
-<h3 id="healthy-minds-app">Healthy Minds App</h3>
+<h3 id="healthy-minds-app"><a href="https://hminnovations.org/meditation-app">Healthy Minds App</a></h3>
+
 <p>Developed by world-renowned neuroscientist Dr. Richard Davidson and his team at the Center for Healthy Minds at the University of Wisconsin - Madison &amp; Healthy Minds Innovations, the Healthy Minds Program trains your mind through meditation and podcast-style lessons to develop skills - to gain focus, reduce stress, and maintain positive social connections. The app uses neuroscience, contemplative traditions, and skill-based learning methods to help you develop the skills for a healthy mind, now in the palm of your hand. Translating pioneering neuroscience into tools for everyday life, our unique framework guides you through the four pillars of the science of training the mind.</p>
 
 <p>Pros: Free, your participation contributes to research
 Cons: Creation of new material might be slow once you get through the current program</p>
 
-<h6 id="ios-download"><a href="./https://apps.apple.com/us/app/healthy-minds-program/id1326310617">iOS Download</a></h6>
+<p><a href="https://apps.apple.com/us/app/healthy-minds-program/id1326310617">iOS</a></p>
 
-<h6 id="android-download"><a href="./https://play.google.com/store/apps/details?id=com.healthyminds&amp;hl=en_US">Android Download</a></h6>
+<p><a href="https://play.google.com/store/apps/details?id=com.healthyminds&amp;hl=en_US">Android</a></p>
+
+<h3 id="headspace"><a href="https://www.headspace.com/headspace-meditation-app">Headspace</a></h3>
+<p>Pros: Nice interface and steady stream of new content.
+Cons: 
+<a href="https://www.headspace.com/subscriptions?_branch_match_id=873938904209122103">iOS</a></p>
+
+<p><a href="https://www.headspace.com/subscriptions?_branch_match_id=873938904209122103">Android</a></p>
+
+<h3 id="insight-timer"><a href="https://insighttimer.com/">Insight Timer</a></h3>
+<p>Pros: Lots of content, multiple meditation instructors
+Cons:</p>
 
 <p>Text can be <strong>bold</strong>, <em>italic</em>, or <del>strikethrough</del>.</p>
 
@@ -242,13 +208,4 @@ Cons: Creation of new material might be slow once you get through the current pr
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
 </code></pre></div></div>
-
-
-      <footer class="site-footer">
-<!--        
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
--->
-      </footer>
-    </main>
-  </body>
-</html>
+:ET

@@ -28,8 +28,9 @@ Developed by world-renowned neuroscientist Dr. Richard Davidson and his team at 
 Pros: Free, your participation contributes to research
 Cons: Creation of new material might be slow once you get through the current program
 
-[iOS Download](./https://apps.apple.com/us/app/healthy-minds-program/id1326310617) | 
-[Android Download](./https://play.google.com/store/apps/details?id=com.healthyminds&hl=en_US)
+###### [iOS Download](./https://apps.apple.com/us/app/healthy-minds-program/id1326310617) 
+
+###### [Android Download](./https://play.google.com/store/apps/details?id=com.healthyminds&hl=en_US)
 
 
 
